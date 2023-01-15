@@ -23,7 +23,7 @@ The game uses internet access in only two instances:
 
  Munich, Germany
 
- ivan.gandacov@gmail.com
+ littlebee.dev@gmail.com
 
 
 
